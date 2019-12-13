@@ -1,0 +1,3 @@
+This is a simple code using the for loop with range and using import file (fizzbuzz) to call methode from the file and to print the numbers from 1 to 99 which are divisible by 3, 5, 3 & 5 and calling the name fizz, buzz and fizzbuss respectively.
+There was in error when importing and calling the method. Both the importing file and calling method had the same name which gives little confusion.
+Updated line 11 from import fizzbuzz to from fizzbuzz import fizzbuzz.
